@@ -1,0 +1,6 @@
+1|Nguyen Phong Hao|8
+2|Thao Van|10
+3|Quang Huy|8
+4|Chi Vien|9
+5|Ba Loi|5
+6|Quy Quang|10
