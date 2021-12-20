@@ -145,7 +145,7 @@ fn main() {
 
     print_number_to(20);
 
-    println!("{:?}", is_Max(11));
+    println!("{:?}", is_max(11));
 
     let mut x = 10;
 
@@ -347,7 +347,7 @@ fn xoa_x(arr: &mut Vec<i32>) {
         }
     }
 
-    for i in 0..count {
+    for _i in 0..count {
         arr.pop();
     }
 }
@@ -432,6 +432,6 @@ fn chen_x(arr: &mut Vec<i32>, x: usize) {
     }
 }
 
-fn is_Max(num: u32) -> bool {
+fn is_max(num: u32) -> bool {
     return num > 10;
 }
